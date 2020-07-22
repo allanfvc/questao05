@@ -2,3 +2,4 @@
 
 - Alteração realizada na branch develop
 - Alteração 2 realizada na branch develop
+- Alteração 4 realizada na branch nova-tela2
